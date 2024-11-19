@@ -1,0 +1,14 @@
+[project]
+name = "azure-devops-library-upsert"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "WajahatAliAbid", email = "17341777+WajahatAliAbid@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "azure-devops>=7.1.0b4",
+    "click>=8.1.7",
+    "rich>=13.9.4",
+]
